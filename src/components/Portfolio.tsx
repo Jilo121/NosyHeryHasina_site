@@ -12,9 +12,9 @@ export default function Portfolio() {
       icon: Building2,
       images: [
         {
-          src: 'https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&w=800',
-          alt: 'Rendu architectural moderne - Extérieur',
-          description: 'Visualisation 3D d\'une villa contemporaine'
+          src: 'https://files.fm/f/722ef8htna',
+          alt: 'Rendu Interieur de Douche - Interieur',
+          description: 'Visualisation 3D d\'une douche moderne'
         },
         {
           src: 'https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=800',
