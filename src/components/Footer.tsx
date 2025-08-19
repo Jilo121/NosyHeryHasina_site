@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="max-w-4xl mx-auto text-center">
           <div className="mb-8">
             <h3 className="text-2xl font-bold mb-2">
-              Nosy Hery <span className="text-amber-400">Hasina</span>
+            <span className="text-amber-400">Nosy</span> Hery Hasina
             </h3>
             <p className="text-gray-400 mb-6">
               Dessinateur 3D Architectural & Photographe
@@ -29,7 +29,7 @@ export default function Footer() {
           <div className="border-t border-gray-800 pt-8">
             <div className="flex flex-col md:flex-row items-center justify-between">
               <p className="text-gray-400 text-sm mb-4 md:mb-0">
-                © 2024 Nosy Hery Hasina. Tous droits réservés.
+                © 2025 Nosy Hery Hasina. Tous droits réservés.
               </p>
               
               <div className="flex items-center space-x-2 text-gray-400 text-sm">
